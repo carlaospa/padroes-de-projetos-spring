@@ -7,7 +7,7 @@ Fonte: O livro Design Patterns: Elements of Reusable Object-Oriented Software (1
 
 Desenvolvendo e Explorando Padrãoes de Projetos com API REST, criada com o Spring Boot.
 
-Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
+Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados H2
